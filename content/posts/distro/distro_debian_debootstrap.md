@@ -14,7 +14,7 @@ slug: distro-debian-debootstrap
 toc: true
 ---
 
-Doel is om debian te installeren met debootstrap. We starten met een willekeurige arch installatie, of van het arch installatie medium.
+Het doel is om debian te installeren met debootstrap. We starten met een willekeurige arch installatie, of van het arch installatie medium.
 
 <!--more-->
 
