@@ -25,6 +25,10 @@ Meest gebruikte bookmarks.
 - [distrotube](https://www.distrotube.com/) Distrotube
 - [Luke Smith github](https://github.com/LukeSmithxyz) Github Luke Smith
 
+### Onderhoud
+- [mijn hostnet](https://mijn.hostnet.nl) Dns settings aanpassen
+- [strato](https://www.strato.nl) Strato website
+
 later aanvullen.
 
 [Meer notities](/notes)
